@@ -50,17 +50,29 @@ My mission is to **contribute to open-source** and engage in **major projects th
 🔹 Help teams deliver faster, safer, and more scalable applications  
 
 ---
-
 ## 📈 GitHub Stats  
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=aryanbansode&show_icons=true&theme=tokyonight)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=aryanbansode&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true&count_private=true" height="170px"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aryanbansode&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="170px"/>
+</p>
 
 ---
 
-## 📊 Top Languages  
+## 📊 Tech Usage Focus  
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aryanbansode&layout=compact&theme=tokyonight)
+Even though GitHub automatically calculates your top languages from repositories,  
+here’s an **approximation based on your actual work** 👇  
+
+| Language | Usage (%) | Description |
+|-----------|------------|-------------|
+| 🐍 **Python** | **≈80%** | Core language used for scripting, automation, and backend work |
+| 🗄️ **SQL** | **≈10%** | Used in data analytics, database design, and query optimization |
+| ☁️ **YAML / JSON** | **≈5%** | Infrastructure configuration for CI/CD pipelines and cloud setups |
+| ⚙️ **Shell / Bash** | **≈5%** | Deployment automation and system-level scripting |
 
 ---
 
-![DevOps GIF](https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif)
+## 🧩 Contribution Graph  
+
+[![Aryan's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=aryanbansode&bg_color=0d1117&color=58a6ff&line=58a6ff&point=1f6feb&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
