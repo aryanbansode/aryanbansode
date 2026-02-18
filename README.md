@@ -120,9 +120,9 @@ My mission is to build **scalable, production-ready DevOps and AI systems** and 
 
 # 🌍 Connect  
 
-📧 Email: your@email.com  
+📧 Email: aryanbansode5876@gmail.com
 
-💼 LinkedIn: https://linkedin.com/in/yourname  
+💼 LinkedIn: www.linkedin.com/in/aryanbansode
 
 ---
 
