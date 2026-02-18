@@ -80,19 +80,6 @@ My mission is to build **scalable, production-ready DevOps and AI systems** and 
 ✅ AI Infrastructure Engineering  
 
 ---
-
-# 📈 GitHub Stats  
-
-<p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=aryanbansode&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aryanbansode&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
-
-</p>
-
----
-
 # 📊 Contribution Graph  
 
 [![Aryan's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=aryanbansode&bg_color=0d1117&color=58a6ff&line=58a6ff&point=1f6feb&area=true&hide_border=true)](https://github.com)
